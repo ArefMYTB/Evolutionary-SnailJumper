@@ -1,1 +1,1 @@
-# Evolutionary-SnailJumper
+# enable evolutionary algorithm on a game called SnailJumper
