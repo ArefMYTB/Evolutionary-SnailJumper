@@ -1,0 +1,2 @@
+most fitness: 28 least fitness: 28 average fitness: 28
+most fitness: 161 least fitness: 21 average fitness: 30.85
